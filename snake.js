@@ -1,4 +1,5 @@
 (function(){
+  //贪吃蛇类文件
   function Snake(size=8){
     this.x = 10*size;//初始化头部水平距离 
     this.y = 5*size;//初始化头部垂直距离
